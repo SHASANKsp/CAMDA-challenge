@@ -126,6 +126,18 @@ This structure allows for temporal queries like:
 - "How did patient X's diagnoses evolve over time?"
 
 
+---------------------------------------------------------------------  
+
+refer to ingest.py for TKG constructuion
+
+---------------------------------------------------------------------
+
+1) Finding some strong relationships in diabetes-associated pathologies that allows to predict any pathology before this is diagnosed. Some well-known pathological diabetes consequences, which can be considered relevant endpoints to predict, can be:  
+   a) Retinopathy (Code “703”),  
+   b) Chronic kidney disease (Code “1401”),  
+   c) Ischemic heart disease (Code “910”),  
+   d) Amputations (Code “1999”)  
+2) Another proposed challenge is the prediction of disease trajectories in diabetes patients (see for example: Jensen et al. Nat Commun. 2014)
 
 Yes! Your temporal knowledge graph (TKG) schema can **directly support** both of your proposed applications for diabetes research. Here's how to adapt it for:
 
@@ -237,14 +249,5 @@ RETURN p.id,
        toInteger(v2.age) - toInteger(v1.age) AS time_to_ckd
 ```
 
----
 
-### **Next Steps**
-1. **Enrich the Graph**:
-   - Add lab results, medications, or social determinants as nodes.
-2. **Temporal Resolution**:
-   - Convert `age` to actual dates (e.g., `age=9070` → `1990-07-01`).
-3. **Validation**:
-   - Compare predictions against clinical outcomes (e.g., Jensen et al.’s methods).
 
-Would you like me to generate a sample dataset or Python code to train a prediction model?
