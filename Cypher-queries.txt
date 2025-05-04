@@ -1,0 +1,66 @@
+// Basic stats from the KG ----------->
+
+// Count patients by sex
+MATCH (p:Patient)
+RETURN 
+  COUNT(p) AS total_patients,
+  SUM(CASE WHEN p.sex = '1111' THEN 1 ELSE 0 END) AS male_patients,
+  SUM(CASE WHEN p.sex = '2222' THEN 1 ELSE 0 END) AS female_patients,
+  SUM(CASE WHEN p.sex IS NULL THEN 1 ELSE 0 END) AS unknown_sex;
+
+// Most common diagnoses by decade of life - Diagnosis Frequency by Age Group
+MATCH (p:Patient)-[r:HAS_DIAGNOSIS]->(d:Diagnosis)
+WITH d.code AS diagnosis, r.age AS age, 
+     (r.age / 10) * 10 AS decade
+RETURN diagnosis, decade, COUNT(*) AS frequency
+ORDER BY decade, frequency DESC;
+
+
+
+// Temporal Analysis
+// Find progression from diabetes (401) to retinopathy (703)
+MATCH (p:Patient)-[r1:HAS_DIAGNOSIS]->(diabetes:Diagnosis {code: '401'})
+MATCH (p)-[r2:HAS_DIAGNOSIS]->(retinopathy:Diagnosis {code: '703'})
+WHERE r1.age < r2.age
+RETURN p.id, r1.age AS diabetes_age, r2.age AS retinopathy_age, 
+       r2.age - r1.age AS years_to_retinopathy
+ORDER BY years_to_retinopathy;
+
+// Disease trajectory analysis
+MATCH (diabetes:Diagnosis {code: '401'})<-[r1:HAS_DIAGNOSIS]-(p:Patient)
+MATCH (p)-[r2:HAS_DIAGNOSIS]->(other:Diagnosis)
+WHERE other.code <> '401' AND r2.age > r1.age
+WITH other.code AS subsequent_diagnosis, 
+     AVG(r2.age - r1.age) AS avg_years_after_diabetes,
+     COUNT(DISTINCT p) AS patient_count
+RETURN subsequent_diagnosis, avg_years_after_diabetes, patient_count
+ORDER BY patient_count DESC
+LIMIT 15;
+
+//  Co-occurring diagnoses in the same visit
+MATCH (p:Patient)-[r:HAS_DIAGNOSIS]->(d:Diagnosis)
+WITH p, r.visit_identifier AS visit, r.age AS age, COLLECT(d.code) AS diagnoses
+WHERE SIZE(diagnoses) > 1
+RETURN p.id, age, diagnoses
+ORDER BY p.id, age;
+
+
+// Diabetes Complications Timeline
+MATCH (p:Patient)-[r1]->(diabetes:Diagnosis {code: "401"})
+MATCH (p)-[r2]->(comp:Diagnosis)
+WHERE comp.code IN ["703", "1401", "910"] AND r2.age > r1.age
+RETURN p.id, r1.age AS diabetes_age, comp.code, r2.age AS complication_age
+ORDER BY p.id, r2.age
+
+// Most Common Diagnosis Sequences
+MATCH (p:Patient)-[r1]->(d1:Diagnosis)
+MATCH (p)-[r2]->(d2:Diagnosis)
+WHERE r1.age < r2.age
+RETURN d1.code AS first, d2.code AS next, COUNT(*) AS frequency
+ORDER BY frequency DESC LIMIT 10
+
+// Early Warning Signs for Kidney Disease
+MATCH (p:Patient)-[r1]->(d:Diagnosis)<-[r2]-(p)-[r3]->(ckd:Diagnosis {code: "1401"})
+WHERE r1.age < r2.age < r3.age
+RETURN d.code, AVG(r3.age - r2.age) AS avg_years_to_ckd, COUNT(*) AS cases
+ORDER BY cases DESC
