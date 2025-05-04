@@ -59,14 +59,6 @@ WHERE r1.age < r2.age
 RETURN d1.code AS first, d2.code AS next, COUNT(*) AS frequency
 ORDER BY frequency DESC LIMIT 10
 
-// Early Warning Signs for Kidney Disease
-MATCH (p:Patient)-[r1]->(d:Diagnosis)<-[r2]-(p)-[r3]->(ckd:Diagnosis {code: "1401"})
-WHERE r1.age < r2.age < r3.age
-RETURN d.code, AVG(r3.age - r2.age) AS avg_years_to_ckd, COUNT(*) AS cases
-ORDER BY cases DESC
-
-//
-// 
 // 
 // 
 // Predicting Target Complications (Retinopathy, CKD, etc.) - These queries identify patterns that precede your specified endpoints (703, 1401, 910, 1999) using only the existing graph structure:
@@ -93,15 +85,6 @@ RETURN subsequent_diagnosis, avg_years_after_diabetes, patient_count
 ORDER BY patient_count DESC
 LIMIT 15;
 
-// Co-Occurring Diagnoses in Same Visit - Uses the existing `visit_identifier` to find comorbidities:
-// Frequent pairs of diagnoses in the same visit
-MATCH (p:Patient)-[r:HAS_DIAGNOSIS]->(d1:Diagnosis)
-MATCH (p)-[r:HAS_DIAGNOSIS]->(d2:Diagnosis)
-WHERE d1.code < d2.code AND r.visit_identifier CONTAINS p.id
-RETURN d1.code AS diagnosis1, d2.code AS diagnosis2, COUNT(*) AS frequency
-ORDER BY frequency DESC
-LIMIT 10;
-
 
 //  Early Warning System for Kidney Disease (1401) - Identifies patients with risk factors who haven’t yet developed CKD:
 // Patients with diabetes (401) + hypertension (402) but no CKD (1401)
@@ -119,4 +102,8 @@ RETURN p.id,
        CASE WHEN progression_years < 3 THEN 'Fast'
             WHEN progression_years <= 7 THEN 'Moderate'
             ELSE 'Slow' END AS risk_group
+
+
+
+
 
