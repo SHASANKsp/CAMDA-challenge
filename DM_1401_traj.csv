@@ -1,0 +1,78 @@
+﻿d1.name,d2.name,r2.frequency,r2.avg_years,d3.name
+Diabetes,Chronic kidney disease,9312,0.5572379725085911,Hyperlipidaemia
+Diabetes,Chronic kidney disease,3887,0.33985078466683816,Hypertension
+Diabetes,Chronic kidney disease,3627,0.83264405845051,Heart failure
+Diabetes,Chronic kidney disease,2818,0.765791341376863,Atrial fibrillation
+Diabetes,Chronic kidney disease,2723,0.6522218141755417,Obesity
+Diabetes,Chronic kidney disease,2512,0.8638535031847133,Anxiety disorder
+Diabetes,Chronic kidney disease,1748,0.7963386727688787,Motor disorders with no CVA
+Diabetes,Chronic kidney disease,1675,3.1534328358208956,Arthrosis/spondylosis
+Diabetes,Chronic kidney disease,1392,0.7787356321839081,Retinopathy
+Diabetes,Chronic kidney disease,1390,0.6661870503597123,Ischemic heart disease
+Diabetes,Chronic kidney disease,1307,0.5202754399387911,Dementia
+Diabetes,Chronic kidney disease,933,0.8360128617363344,Extremity arteriopathy diseases
+Diabetes,Chronic kidney disease,920,0.7304347826086957,Urinary lithiasis
+Diabetes,Chronic kidney disease,811,0.6905055487053021,Mood disorder
+Diabetes,Chronic kidney disease,732,3.19672131147541,COPD
+Diabetes,Chronic kidney disease,698,1.1905444126074498,Other organic mental disorder
+Diabetes,Chronic kidney disease,635,0.49763779527559054,Lung and Bronchus Cancer
+Diabetes,Chronic kidney disease,599,0.5776293823038398,Tobacco dependence
+Diabetes,Chronic kidney disease,575,0.6573913043478261,Hypothyroidism
+Diabetes,Chronic kidney disease,510,0.8509803921568627,Glaucoma
+Diabetes,Chronic kidney disease,454,0.986784140969163,Acquired heart diseases
+Diabetes,Chronic kidney disease,446,0.7040358744394619,Alcohol dependence
+Diabetes,Chronic kidney disease,353,0.9660056657223796,Age-related macular degeneration
+Diabetes,Chronic kidney disease,346,0.36416184971098264,Sequelae of cerebrovascular diseases
+Diabetes,Chronic kidney disease,329,0.5045592705167173,Bladder cancer
+Diabetes,Chronic kidney disease,266,0.6842105263157895,Colorectal cancer
+Diabetes,Chronic kidney disease,225,0.35555555555555557,Prostate cancer
+Diabetes,Chronic kidney disease,216,0.9537037037037037,Epilepsy
+Diabetes,Chronic kidney disease,197,0.7715736040609137,Ill-defined cerebrovascular disease and others
+Diabetes,Chronic kidney disease,194,2.9896907216494846,Gout and other crystal deposition diseases
+Diabetes,Chronic kidney disease,193,0.9740932642487047,Occlusion or stenosis of precerebral arteries
+Diabetes,Chronic kidney disease,191,5.2460732984293195,Hepatic steatosis
+Diabetes,Chronic kidney disease,183,3.0491803278688523,Other arthropathies
+Diabetes,Chronic kidney disease,177,0.9152542372881356,Peripheral and visceral artery aneurysms
+Diabetes,Chronic kidney disease,173,3.4161849710982657,Asthma
+Diabetes,Chronic kidney disease,164,3.207317073170732,Osteoporosis
+Diabetes,Chronic kidney disease,158,3.1455696202531644,Ischemic hepatitis except for cirrhosis
+Diabetes,Chronic kidney disease,157,0.643312101910828,Leukemia
+Diabetes,Chronic kidney disease,139,1.0215827338129497,Extrapyramidal disorder
+Diabetes,Chronic kidney disease,129,1.0852713178294573,Schizophrenia
+Diabetes,Chronic kidney disease,120,3.3583333333333334,Gastroesophageal reflux disease
+Diabetes,Chronic kidney disease,115,3.356521739130435,Collagen diseases and vasculitis
+Diabetes,Chronic kidney disease,113,2.893805309734513,Psoriasis
+Diabetes,Chronic kidney disease,105,1.161904761904762,Parkinson disease
+Diabetes,Chronic kidney disease,105,0.6476190476190476,Kidney and renal pelvis cancer
+Diabetes,Chronic kidney disease,100,0.35,Uterine cancer
+Diabetes,Chronic kidney disease,95,0.5894736842105263,Breast cancer
+Diabetes,Chronic kidney disease,72,0.5555555555555556,Non-Hodgkin's lymphoma
+Diabetes,Chronic kidney disease,69,0.5362318840579711,Congenital cardiovascular anomalies
+Diabetes,Chronic kidney disease,58,0.8275862068965517,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+Diabetes,Chronic kidney disease,51,0.8431372549019608,Head and neck cancer
+Diabetes,Chronic kidney disease,45,0.6444444444444445,Immunoproliferative neoplasm
+Diabetes,Chronic kidney disease,44,0.7727272727272727,Stomach cancer
+Diabetes,Chronic kidney disease,38,3.0789473684210527,Hepatic cirrhosis
+Diabetes,Chronic kidney disease,34,0.08823529411764706,Testicular cancer
+Diabetes,Chronic kidney disease,32,1.15625,Other functional disorder
+Diabetes,Chronic kidney disease,30,1.5666666666666667,Other substance dependece
+Diabetes,Chronic kidney disease,28,1.3571428571428572,Intra-abdominal artery disease
+Diabetes,Chronic kidney disease,26,0.6538461538461539,Cervical cancer
+Diabetes,Chronic kidney disease,25,0.28,Other developmental disorder
+Diabetes,Chronic kidney disease,24,0.5,Eating disorder
+Diabetes,Chronic kidney disease,23,1.2608695652173914,Melanoma
+Diabetes,Chronic kidney disease,22,1.1818181818181819,Pancreatic cancer
+Diabetes,Chronic kidney disease,21,0.19047619047619047,Thyroid cancer
+Diabetes,Chronic kidney disease,17,0.6470588235294118,Intellectual disability
+Diabetes,Chronic kidney disease,16,2.875,Disorders of adult personality and behaviour
+Diabetes,Chronic kidney disease,16,2.625,Malabsorption and food intolerance
+Diabetes,Chronic kidney disease,16,0.875,Bone and soft tissue sarcomas
+Diabetes,Chronic kidney disease,15,3.8666666666666667,Fibromyalgia
+Diabetes,Chronic kidney disease,14,3.7857142857142856,Rheumatoid arthritis and related diseases
+Diabetes,Chronic kidney disease,13,0.6153846153846154,Liver and Bile Duct Cancer
+Diabetes,Chronic kidney disease,12,0.3333333333333333,Kaposi's sarcoma
+Diabetes,Chronic kidney disease,10,3.7,Regional enteritis and ulcerative colitis
+Diabetes,Chronic kidney disease,8,0.125,Ovarian cancer
+Diabetes,Chronic kidney disease,6,3.3333333333333335,Dermatitis
+Diabetes,Chronic kidney disease,5,9.4,HIV
+Diabetes,Chronic kidney disease,1,0.0,Hodgkinâ€™s disease

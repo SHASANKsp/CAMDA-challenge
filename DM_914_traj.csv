@@ -1,0 +1,79 @@
+﻿d1.name,d2.name,r2.frequency,r2.avg_years,d3.name
+Diabetes,Heart failure,10394,3.5309794111987687,Arthrosis/spondylosis
+Diabetes,Heart failure,8974,3.5746601292623135,Hyperlipidaemia
+Diabetes,Heart failure,5460,3.4443223443223445,Chronic kidney disease
+Diabetes,Heart failure,4869,3.3943314849044977,Atrial fibrillation
+Diabetes,Heart failure,3579,3.839899413243923,Hypertension
+Diabetes,Heart failure,3207,3.310882444652323,COPD
+Diabetes,Heart failure,2447,3.6604004903964036,Anxiety disorder
+Diabetes,Heart failure,2419,3.625878462174452,Obesity
+Diabetes,Heart failure,1833,3.507910529187125,Motor disorders with no CVA
+Diabetes,Heart failure,1223,3.2632869991823386,Retinopathy
+Diabetes,Heart failure,1176,3.483843537414966,Asthma
+Diabetes,Heart failure,1063,3.099717779868297,Ischemic heart disease
+Diabetes,Heart failure,1017,3.2674532940019665,Mood disorder
+Diabetes,Heart failure,935,3.176470588235294,Tobacco dependence
+Diabetes,Heart failure,816,3.2904411764705883,Hypothyroidism
+Diabetes,Heart failure,772,3.44300518134715,Extremity arteriopathy diseases
+Diabetes,Heart failure,751,3.4647137150466047,Hepatic steatosis
+Diabetes,Heart failure,747,3.3734939759036147,Other organic mental disorder
+Diabetes,Heart failure,733,3.4884038199181444,Other arthropathies
+Diabetes,Heart failure,721,3.464632454923717,Dementia
+Diabetes,Heart failure,672,3.3452380952380953,Urinary lithiasis
+Diabetes,Heart failure,617,3.340356564019449,Ischemic hepatitis except for cirrhosis
+Diabetes,Heart failure,607,3.2224052718286655,Osteoporosis
+Diabetes,Heart failure,496,3.4596774193548385,Alcohol dependence
+Diabetes,Heart failure,492,3.0995934959349594,Acquired heart diseases
+Diabetes,Heart failure,469,2.748400852878465,Psoriasis
+Diabetes,Heart failure,465,3.2838709677419353,Glaucoma
+Diabetes,Heart failure,465,3.032258064516129,Gout and other crystal deposition diseases
+Diabetes,Heart failure,434,3.19815668202765,Age-related macular degeneration
+Diabetes,Heart failure,383,3.1096605744125325,Gastroesophageal reflux disease
+Diabetes,Heart failure,244,3.4139344262295084,Epilepsy
+Diabetes,Heart failure,217,3.313364055299539,Colorectal cancer
+Diabetes,Heart failure,209,3.5645933014354068,Schizophrenia
+Diabetes,Heart failure,207,2.898550724637681,Collagen diseases and vasculitis
+Diabetes,Heart failure,198,3.0707070707070705,Occlusion or stenosis of precerebral arteries
+Diabetes,Heart failure,180,5.355555555555555,Lung and Bronchus Cancer
+Diabetes,Heart failure,179,3.5083798882681565,Leukemia
+Diabetes,Heart failure,177,2.7457627118644066,Sequelae of cerebrovascular diseases
+Diabetes,Heart failure,173,3.6184971098265897,Extrapyramidal disorder
+Diabetes,Heart failure,152,3.3092105263157894,Ill-defined cerebrovascular disease and others
+Diabetes,Heart failure,147,2.993197278911565,Breast cancer
+Diabetes,Heart failure,145,2.779310344827586,Bladder cancer
+Diabetes,Heart failure,134,2.6641791044776117,Fibromyalgia
+Diabetes,Heart failure,133,2.9097744360902253,Rheumatoid arthritis and related diseases
+Diabetes,Heart failure,131,2.7557251908396947,Prostate cancer
+Diabetes,Heart failure,117,2.8290598290598292,Parkinson disease
+Diabetes,Heart failure,115,3.4695652173913043,Hepatic cirrhosis
+Diabetes,Heart failure,111,3.7927927927927927,Malabsorption and food intolerance
+Diabetes,Heart failure,93,3.3978494623655915,Peripheral and visceral artery aneurysms
+Diabetes,Heart failure,84,3.238095238095238,Non-Hodgkin's lymphoma
+Diabetes,Heart failure,80,2.5375,Kidney and renal pelvis cancer
+Diabetes,Heart failure,78,2.7051282051282053,Head and neck cancer
+Diabetes,Heart failure,64,3.0625,Thyroid cancer
+Diabetes,Heart failure,62,3.6129032258064515,Uterine cancer
+Diabetes,Heart failure,60,2.5,Other functional disorder
+Diabetes,Heart failure,60,3.1666666666666665,Other developmental disorder
+Diabetes,Heart failure,57,3.0350877192982457,Regional enteritis and ulcerative colitis
+Diabetes,Heart failure,57,2.824561403508772,Dermatitis
+Diabetes,Heart failure,57,3.3859649122807016,Melanoma
+Diabetes,Heart failure,53,2.943396226415094,Other substance dependece
+Diabetes,Heart failure,47,4.191489361702128,Disorders of adult personality and behaviour
+Diabetes,Heart failure,41,4.7317073170731705,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+Diabetes,Heart failure,41,2.8048780487804876,HIV
+Diabetes,Heart failure,32,3.375,Ovarian cancer
+Diabetes,Heart failure,31,3.3870967741935485,Pancreatic cancer
+Diabetes,Heart failure,31,2.967741935483871,Cervical cancer
+Diabetes,Heart failure,29,3.0689655172413794,Intellectual disability
+Diabetes,Heart failure,27,2.962962962962963,Congenital cardiovascular anomalies
+Diabetes,Heart failure,24,3.5833333333333335,Stomach cancer
+Diabetes,Heart failure,22,2.6818181818181817,Intra-abdominal artery disease
+Diabetes,Heart failure,22,3.409090909090909,Immunoproliferative neoplasm
+Diabetes,Heart failure,20,3.55,Bone and soft tissue sarcomas
+Diabetes,Heart failure,15,4.2,Eating disorder
+Diabetes,Heart failure,15,3.933333333333333,Hodgkinâ€™s disease
+Diabetes,Heart failure,14,3.142857142857143,Liver and Bile Duct Cancer
+Diabetes,Heart failure,6,6.5,Testicular cancer
+Diabetes,Heart failure,5,2.4,Kaposi's sarcoma
+Diabetes,Heart failure,1,5.0,Autism

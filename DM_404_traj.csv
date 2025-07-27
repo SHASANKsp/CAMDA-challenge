@@ -1,0 +1,79 @@
+﻿d1.name,d2.name,r2.frequency,r2.avg_years,d3.name
+Diabetes,Obesity,22991,0.7739985211604541,Hypertension
+Diabetes,Obesity,9195,0.8487221315932572,Anxiety disorder
+Diabetes,Obesity,6099,4.037383177570093,Arthrosis/spondylosis
+Diabetes,Obesity,5803,0.4090987420299845,Tobacco dependence
+Diabetes,Obesity,5780,0.5268166089965398,Retinopathy
+Diabetes,Obesity,3885,4.018018018018018,Hyperlipidaemia
+Diabetes,Obesity,3874,0.8559628291171916,Heart failure
+Diabetes,Obesity,2251,0.35139937805419813,Ischemic heart disease
+Diabetes,Obesity,2064,0.7868217054263565,Mood disorder
+Diabetes,Obesity,1858,0.7658772874058127,Atrial fibrillation
+Diabetes,Obesity,1694,0.5726092089728453,Glaucoma
+Diabetes,Obesity,1333,0.6451612903225806,Motor disorders with no CVA
+Diabetes,Obesity,861,3.6097560975609757,COPD
+Diabetes,Obesity,807,0.48698884758364314,Other organic mental disorder
+Diabetes,Obesity,807,0.48946716232961585,Alcohol dependence
+Diabetes,Obesity,754,0.6511936339522546,Extremity arteriopathy diseases
+Diabetes,Obesity,754,4.209549071618037,Chronic kidney disease
+Diabetes,Obesity,740,0.5067567567567568,Dementia
+Diabetes,Obesity,517,4.404255319148936,Asthma
+Diabetes,Obesity,483,3.9751552795031055,Hypothyroidism
+Diabetes,Obesity,384,0.4244791666666667,Extrapyramidal disorder
+Diabetes,Obesity,353,3.773371104815864,Hepatic steatosis
+Diabetes,Obesity,332,0.8283132530120482,Acquired heart diseases
+Diabetes,Obesity,269,0.34944237918215615,Schizophrenia
+Diabetes,Obesity,266,3.4849624060150375,Urinary lithiasis
+Diabetes,Obesity,261,0.7088122605363985,Age-related macular degeneration
+Diabetes,Obesity,252,4.115079365079365,Osteoporosis
+Diabetes,Obesity,215,0.3488372093023256,Epilepsy
+Diabetes,Obesity,206,4.131067961165049,Psoriasis
+Diabetes,Obesity,200,0.735,Sequelae of cerebrovascular diseases
+Diabetes,Obesity,198,3.378787878787879,Gastroesophageal reflux disease
+Diabetes,Obesity,193,0.30569948186528495,Other substance dependece
+Diabetes,Obesity,188,0.4787234042553192,Parkinson disease
+Diabetes,Obesity,179,5.346368715083799,Other arthropathies
+Diabetes,Obesity,146,4.1438356164383565,Ischemic hepatitis except for cirrhosis
+Diabetes,Obesity,134,0.5970149253731343,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+Diabetes,Obesity,132,3.356060606060606,Lung and Bronchus Cancer
+Diabetes,Obesity,92,0.15217391304347827,Ill-defined cerebrovascular disease and others
+Diabetes,Obesity,91,0.5164835164835165,Intellectual disability
+Diabetes,Obesity,86,1.755813953488372,Disorders of adult personality and behaviour
+Diabetes,Obesity,84,0.4880952380952381,Occlusion or stenosis of precerebral arteries
+Diabetes,Obesity,68,4.705882352941177,Gout and other crystal deposition diseases
+Diabetes,Obesity,60,3.3,Collagen diseases and vasculitis
+Diabetes,Obesity,59,3.2203389830508473,Rheumatoid arthritis and related diseases
+Diabetes,Obesity,59,2.8983050847457625,Fibromyalgia
+Diabetes,Obesity,57,0.15789473684210525,Congenital cardiovascular anomalies
+Diabetes,Obesity,55,0.6909090909090909,Other functional disorder
+Diabetes,Obesity,52,0.1346153846153846,Eating disorder
+Diabetes,Obesity,41,15.487804878048781,Malabsorption and food intolerance
+Diabetes,Obesity,37,0.8378378378378378,Peripheral and visceral artery aneurysms
+Diabetes,Obesity,37,3.0,Colorectal cancer
+Diabetes,Obesity,33,3.606060606060606,Leukemia
+Diabetes,Obesity,32,4.125,Dermatitis
+Diabetes,Obesity,32,2.90625,Breast cancer
+Diabetes,Obesity,30,0.03333333333333333,Other developmental disorder
+Diabetes,Obesity,30,3.8333333333333335,Thyroid cancer
+Diabetes,Obesity,26,4.346153846153846,Kidney and renal pelvis cancer
+Diabetes,Obesity,25,3.44,Hepatic cirrhosis
+Diabetes,Obesity,25,3.68,Prostate cancer
+Diabetes,Obesity,23,3.782608695652174,Head and neck cancer
+Diabetes,Obesity,21,3.9523809523809526,Bladder cancer
+Diabetes,Obesity,19,0.6842105263157895,Autism
+Diabetes,Obesity,18,4.555555555555555,Non-Hodgkin's lymphoma
+Diabetes,Obesity,16,4.5625,HIV
+Diabetes,Obesity,14,0.7857142857142857,Intra-abdominal artery disease
+Diabetes,Obesity,10,3.1,Pancreatic cancer
+Diabetes,Obesity,9,4.888888888888889,Regional enteritis and ulcerative colitis
+Diabetes,Obesity,8,3.0,Uterine cancer
+Diabetes,Obesity,7,3.2857142857142856,Cervical cancer
+Diabetes,Obesity,6,4.333333333333333,Melanoma
+Diabetes,Obesity,5,4.8,Liver and Bile Duct Cancer
+Diabetes,Obesity,4,3.25,Stomach cancer
+Diabetes,Obesity,4,3.25,Bone and soft tissue sarcomas
+Diabetes,Obesity,3,7.0,Testicular cancer
+Diabetes,Obesity,2,3.0,Ovarian cancer
+Diabetes,Obesity,2,2.5,Kaposi's sarcoma
+Diabetes,Obesity,1,1.0,Hodgkinâ€™s disease
+Diabetes,Obesity,1,2.0,Immunoproliferative neoplasm

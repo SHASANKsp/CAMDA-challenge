@@ -1,0 +1,79 @@
+﻿d1.name,d2.name,r2.frequency,r2.avg_years,d3.name
+Diabetes,Glaucoma,7292,1.0935271530444322,Hypertension
+Diabetes,Glaucoma,6365,0.4252945797329144,Retinopathy
+Diabetes,Glaucoma,3197,3.9390053174851425,Arthrosis/spondylosis
+Diabetes,Glaucoma,1989,3.9135243841126193,Hyperlipidaemia
+Diabetes,Glaucoma,1187,1.0640269587194608,Atrial fibrillation
+Diabetes,Glaucoma,1120,1.1946428571428571,Heart failure
+Diabetes,Glaucoma,878,1.0455580865603644,Ischemic heart disease
+Diabetes,Glaucoma,819,3.786324786324786,COPD
+Diabetes,Glaucoma,795,4.19622641509434,Anxiety disorder
+Diabetes,Glaucoma,542,1.0239852398523985,Extremity arteriopathy diseases
+Diabetes,Glaucoma,512,4.037109375,Obesity
+Diabetes,Glaucoma,477,3.6540880503144653,Psoriasis
+Diabetes,Glaucoma,473,3.6300211416490487,Urinary lithiasis
+Diabetes,Glaucoma,462,3.75974025974026,Chronic kidney disease
+Diabetes,Glaucoma,414,0.3961352657004831,Acquired heart diseases
+Diabetes,Glaucoma,369,3.4119241192411924,Other arthropathies
+Diabetes,Glaucoma,249,3.891566265060241,Asthma
+Diabetes,Glaucoma,240,3.825,Osteoporosis
+Diabetes,Glaucoma,236,3.593220338983051,Gastroesophageal reflux disease
+Diabetes,Glaucoma,227,3.4405286343612334,Tobacco dependence
+Diabetes,Glaucoma,217,3.9078341013824884,Motor disorders with no CVA
+Diabetes,Glaucoma,215,3.7953488372093025,Ischemic hepatitis except for cirrhosis
+Diabetes,Glaucoma,208,0.6105769230769231,Ill-defined cerebrovascular disease and others
+Diabetes,Glaucoma,180,5.938888888888889,Hepatic steatosis
+Diabetes,Glaucoma,153,3.372549019607843,Collagen diseases and vasculitis
+Diabetes,Glaucoma,148,3.614864864864865,Hypothyroidism
+Diabetes,Glaucoma,145,3.1724137931034484,Mood disorder
+Diabetes,Glaucoma,131,3.900763358778626,Leukemia
+Diabetes,Glaucoma,124,3.5403225806451615,Other organic mental disorder
+Diabetes,Glaucoma,123,0.2601626016260163,Intra-abdominal artery disease
+Diabetes,Glaucoma,121,0.6776859504132231,Occlusion or stenosis of precerebral arteries
+Diabetes,Glaucoma,120,3.6,Dementia
+Diabetes,Glaucoma,100,2.94,Rheumatoid arthritis and related diseases
+Diabetes,Glaucoma,91,3.2967032967032965,Age-related macular degeneration
+Diabetes,Glaucoma,78,3.3205128205128207,Fibromyalgia
+Diabetes,Glaucoma,71,4.169014084507042,Schizophrenia
+Diabetes,Glaucoma,68,3.1911764705882355,Bladder cancer
+Diabetes,Glaucoma,61,2.557377049180328,Gout and other crystal deposition diseases
+Diabetes,Glaucoma,60,0.16666666666666666,Peripheral and visceral artery aneurysms
+Diabetes,Glaucoma,57,3.912280701754386,Malabsorption and food intolerance
+Diabetes,Glaucoma,51,3.784313725490196,Alcohol dependence
+Diabetes,Glaucoma,48,2.8541666666666665,Extrapyramidal disorder
+Diabetes,Glaucoma,44,3.477272727272727,Lung and Bronchus Cancer
+Diabetes,Glaucoma,36,3.0277777777777777,Dermatitis
+Diabetes,Glaucoma,36,4.222222222222222,Prostate cancer
+Diabetes,Glaucoma,35,4.514285714285714,Thyroid cancer
+Diabetes,Glaucoma,34,3.7941176470588234,Non-Hodgkin's lymphoma
+Diabetes,Glaucoma,33,4.575757575757576,Epilepsy
+Diabetes,Glaucoma,32,3.6875,Hepatic cirrhosis
+Diabetes,Glaucoma,32,4.5,HIV
+Diabetes,Glaucoma,30,3.533333333333333,Parkinson disease
+Diabetes,Glaucoma,28,3.5,Kidney and renal pelvis cancer
+Diabetes,Glaucoma,27,6.037037037037037,Colorectal cancer
+Diabetes,Glaucoma,25,3.24,Disorders of adult personality and behaviour
+Diabetes,Glaucoma,23,2.9565217391304346,Breast cancer
+Diabetes,Glaucoma,19,2.9473684210526314,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+Diabetes,Glaucoma,19,4.842105263157895,Bone and soft tissue sarcomas
+Diabetes,Glaucoma,18,0.9444444444444444,Sequelae of cerebrovascular diseases
+Diabetes,Glaucoma,16,4.0,Head and neck cancer
+Diabetes,Glaucoma,14,0.42857142857142855,Congenital cardiovascular anomalies
+Diabetes,Glaucoma,13,4.461538461538462,Melanoma
+Diabetes,Glaucoma,12,2.25,Pancreatic cancer
+Diabetes,Glaucoma,11,3.4545454545454546,Regional enteritis and ulcerative colitis
+Diabetes,Glaucoma,11,5.363636363636363,Liver and Bile Duct Cancer
+Diabetes,Glaucoma,9,3.7777777777777777,Stomach cancer
+Diabetes,Glaucoma,9,2.888888888888889,Hodgkinâ€™s disease
+Diabetes,Glaucoma,9,2.0,Kaposi's sarcoma
+Diabetes,Glaucoma,8,4.375,Immunoproliferative neoplasm
+Diabetes,Glaucoma,7,3.5714285714285716,Cervical cancer
+Diabetes,Glaucoma,6,3.8333333333333335,Other functional disorder
+Diabetes,Glaucoma,5,9.6,Intellectual disability
+Diabetes,Glaucoma,5,3.4,Other substance dependece
+Diabetes,Glaucoma,4,4.5,Other developmental disorder
+Diabetes,Glaucoma,4,1.0,Uterine cancer
+Diabetes,Glaucoma,4,2.75,Testicular cancer
+Diabetes,Glaucoma,3,4.0,Eating disorder
+Diabetes,Glaucoma,3,5.666666666666667,Ovarian cancer
+Diabetes,Glaucoma,1,4.0,Autism

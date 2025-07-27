@@ -1,0 +1,80 @@
+﻿d1.name,d2.name,r2.frequency,r2.avg_years,d3.name
+Diabetes,Hyperlipidaemia,152230,0.8231754581882678,Hypertension
+Diabetes,Hyperlipidaemia,52342,4.5168507126208395,Diabetes
+Diabetes,Hyperlipidaemia,40694,1.3107337691060108,Anxiety disorder
+Diabetes,Hyperlipidaemia,39880,4.203159478435306,Arthrosis/spondylosis
+Diabetes,Hyperlipidaemia,25296,1.0935721062618595,Obesity
+Diabetes,Hyperlipidaemia,20638,0.6912006977420293,Ischemic heart disease
+Diabetes,Hyperlipidaemia,13543,1.3374436978512885,Atrial fibrillation
+Diabetes,Hyperlipidaemia,13497,1.3220715714603246,Heart failure
+Diabetes,Hyperlipidaemia,12357,0.9804968843570446,Hypothyroidism
+Diabetes,Hyperlipidaemia,12205,1.0929127406800492,Tobacco dependence
+Diabetes,Hyperlipidaemia,10842,1.5092233905183545,Retinopathy
+Diabetes,Hyperlipidaemia,10232,3.7771696637998438,COPD
+Diabetes,Hyperlipidaemia,8859,1.14279264025285,Mood disorder
+Diabetes,Hyperlipidaemia,6351,1.0234608723035743,Glaucoma
+Diabetes,Hyperlipidaemia,5757,4.233454924439813,Chronic kidney disease
+Diabetes,Hyperlipidaemia,5016,1.2948564593301435,Extremity arteriopathy diseases
+Diabetes,Hyperlipidaemia,4328,1.5339648798521257,Motor disorders with no CVA
+Diabetes,Hyperlipidaemia,3381,1.593315587104407,Dementia
+Diabetes,Hyperlipidaemia,3189,3.5785512699905926,Asthma
+Diabetes,Hyperlipidaemia,2905,1.2647160068846817,Alcohol dependence
+Diabetes,Hyperlipidaemia,2774,1.6182408074981975,Other organic mental disorder
+Diabetes,Hyperlipidaemia,2264,3.644434628975265,Osteoporosis
+Diabetes,Hyperlipidaemia,2221,3.653759567762269,Urinary lithiasis
+Diabetes,Hyperlipidaemia,2052,3.632066276803119,Other arthropathies
+Diabetes,Hyperlipidaemia,2025,3.7269135802469138,Hepatic steatosis
+Diabetes,Hyperlipidaemia,1958,3.7180796731358527,Psoriasis
+Diabetes,Hyperlipidaemia,1903,1.277982133473463,Acquired heart diseases
+Diabetes,Hyperlipidaemia,1717,3.617938264414677,Gastroesophageal reflux disease
+Diabetes,Hyperlipidaemia,1602,3.865168539325843,Ischemic hepatitis except for cirrhosis
+Diabetes,Hyperlipidaemia,1498,1.7062750333778371,Age-related macular degeneration
+Diabetes,Hyperlipidaemia,1418,3.385049365303244,Gout and other crystal deposition diseases
+Diabetes,Hyperlipidaemia,823,1.4289185905224788,Occlusion or stenosis of precerebral arteries
+Diabetes,Hyperlipidaemia,808,1.511138613861386,Schizophrenia
+Diabetes,Hyperlipidaemia,686,1.1793002915451896,Epilepsy
+Diabetes,Hyperlipidaemia,643,1.307931570762053,Sequelae of cerebrovascular diseases
+Diabetes,Hyperlipidaemia,589,1.6095076400679118,Extrapyramidal disorder
+Diabetes,Hyperlipidaemia,504,1.255952380952381,Ill-defined cerebrovascular disease and others
+Diabetes,Hyperlipidaemia,487,4.248459958932238,Lung and Bronchus Cancer
+Diabetes,Hyperlipidaemia,484,4.991735537190083,Colorectal cancer
+Diabetes,Hyperlipidaemia,441,3.2970521541950113,Malabsorption and food intolerance
+Diabetes,Hyperlipidaemia,428,1.3294392523364487,Parkinson disease
+Diabetes,Hyperlipidaemia,420,3.552380952380952,Collagen diseases and vasculitis
+Diabetes,Hyperlipidaemia,414,3.417874396135266,Rheumatoid arthritis and related diseases
+Diabetes,Hyperlipidaemia,383,3.519582245430809,Fibromyalgia
+Diabetes,Hyperlipidaemia,353,1.5410764872521245,Peripheral and visceral artery aneurysms
+Diabetes,Hyperlipidaemia,329,1.3130699088145896,Disorders of adult personality and behaviour
+Diabetes,Hyperlipidaemia,303,3.4818481848184817,Hepatic cirrhosis
+Diabetes,Hyperlipidaemia,271,3.7047970479704797,Prostate cancer
+Diabetes,Hyperlipidaemia,268,4.440298507462686,Leukemia
+Diabetes,Hyperlipidaemia,236,3.461864406779661,Bladder cancer
+Diabetes,Hyperlipidaemia,211,1.2701421800947867,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+Diabetes,Hyperlipidaemia,207,5.463768115942029,Non-Hodgkin's lymphoma
+Diabetes,Hyperlipidaemia,187,3.5775401069518717,Breast cancer
+Diabetes,Hyperlipidaemia,185,3.7027027027027026,Thyroid cancer
+Diabetes,Hyperlipidaemia,179,1.7094972067039107,Other substance dependece
+Diabetes,Hyperlipidaemia,172,3.441860465116279,Regional enteritis and ulcerative colitis
+Diabetes,Hyperlipidaemia,172,3.395348837209302,Kidney and renal pelvis cancer
+Diabetes,Hyperlipidaemia,139,3.172661870503597,Dermatitis
+Diabetes,Hyperlipidaemia,132,3.742424242424242,Head and neck cancer
+Diabetes,Hyperlipidaemia,130,1.4846153846153847,Other functional disorder
+Diabetes,Hyperlipidaemia,119,1.184873949579832,Intra-abdominal artery disease
+Diabetes,Hyperlipidaemia,117,0.6752136752136753,Intellectual disability
+Diabetes,Hyperlipidaemia,107,1.1308411214953271,Congenital cardiovascular anomalies
+Diabetes,Hyperlipidaemia,97,3.3195876288659796,Uterine cancer
+Diabetes,Hyperlipidaemia,93,0.7419354838709677,Eating disorder
+Diabetes,Hyperlipidaemia,82,3.902439024390244,HIV
+Diabetes,Hyperlipidaemia,81,3.925925925925926,Pancreatic cancer
+Diabetes,Hyperlipidaemia,73,3.6986301369863015,Melanoma
+Diabetes,Hyperlipidaemia,63,3.238095238095238,Stomach cancer
+Diabetes,Hyperlipidaemia,61,2.0655737704918034,Other developmental disorder
+Diabetes,Hyperlipidaemia,59,3.1016949152542375,Bone and soft tissue sarcomas
+Diabetes,Hyperlipidaemia,58,3.6724137931034484,Ovarian cancer
+Diabetes,Hyperlipidaemia,55,3.581818181818182,Liver and Bile Duct Cancer
+Diabetes,Hyperlipidaemia,37,2.972972972972973,Cervical cancer
+Diabetes,Hyperlipidaemia,28,4.571428571428571,Kaposi's sarcoma
+Diabetes,Hyperlipidaemia,27,3.259259259259259,Hodgkinâ€™s disease
+Diabetes,Hyperlipidaemia,25,3.96,Immunoproliferative neoplasm
+Diabetes,Hyperlipidaemia,18,0.6666666666666666,Autism
+Diabetes,Hyperlipidaemia,11,3.4545454545454546,Testicular cancer

@@ -1,0 +1,9 @@
+// Trajectory from diabeties
+MATCH (start:Diagnosis {code: '401'})-[:PROGRESSES_TO]->(next)
+RETURN start.code, start.name, next.code, next.name
+
+//Sorting based on frequency of all progression
+MATCH (d1)-[r:PROGRESSES_TO]->(d2)
+RETURN d1.code, d1.name, d2.code, d2.name, r.frequency
+ORDER BY r.frequency DESC
+

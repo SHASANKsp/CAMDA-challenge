@@ -1,0 +1,78 @@
+﻿d1.name,d2.name,r2.frequency,r2.avg_years,d3.name
+Diabetes,COPD,17456,1.180109990834097,Arthrosis/spondylosis
+Diabetes,COPD,12647,0.9670277536174587,Hyperlipidaemia
+Diabetes,COPD,10066,0.9146632227299821,Hypertension
+Diabetes,COPD,3778,1.107993647432504,Chronic kidney disease
+Diabetes,COPD,3595,0.44283727399165507,Asthma
+Diabetes,COPD,3361,1.0315382326688485,Anxiety disorder
+Diabetes,COPD,3090,1.296116504854369,Heart failure
+Diabetes,COPD,2964,0.7088394062078273,Tobacco dependence
+Diabetes,COPD,2239,1.3300580616346582,Atrial fibrillation
+Diabetes,COPD,2104,0.6915399239543726,Psoriasis
+Diabetes,COPD,2103,1.0114122681883024,Obesity
+Diabetes,COPD,1665,0.948948948948949,Ischemic heart disease
+Diabetes,COPD,1447,0.8424326192121631,Gout and other crystal deposition diseases
+Diabetes,COPD,1416,0.9103107344632768,Urinary lithiasis
+Diabetes,COPD,1402,1.144079885877318,Retinopathy
+Diabetes,COPD,1372,0.8411078717201166,Gastroesophageal reflux disease
+Diabetes,COPD,1321,0.8607115821347464,Hypothyroidism
+Diabetes,COPD,1247,0.9021651964715317,Extremity arteriopathy diseases
+Diabetes,COPD,1227,1.0089649551752242,Ischemic hepatitis except for cirrhosis
+Diabetes,COPD,1110,0.6261261261261262,Osteoporosis
+Diabetes,COPD,1092,0.8296703296703297,Other arthropathies
+Diabetes,COPD,1062,1.066854990583804,Hepatic steatosis
+Diabetes,COPD,988,0.9858299595141701,Other organic mental disorder
+Diabetes,COPD,982,0.8778004073319755,Alcohol dependence
+Diabetes,COPD,812,0.9261083743842364,Mood disorder
+Diabetes,COPD,693,1.5772005772005773,Motor disorders with no CVA
+Diabetes,COPD,626,0.9249201277955271,Glaucoma
+Diabetes,COPD,529,0.8676748582230623,Colorectal cancer
+Diabetes,COPD,485,0.9917525773195877,Lung and Bronchus Cancer
+Diabetes,COPD,440,1.2931818181818182,Dementia
+Diabetes,COPD,392,1.0204081632653061,Hepatic cirrhosis
+Diabetes,COPD,315,1.1111111111111112,Bladder cancer
+Diabetes,COPD,261,1.3754789272030652,Acquired heart diseases
+Diabetes,COPD,248,0.8951612903225806,Head and neck cancer
+Diabetes,COPD,229,1.3842794759825328,Age-related macular degeneration
+Diabetes,COPD,229,1.1266375545851528,Prostate cancer
+Diabetes,COPD,214,0.677570093457944,Collagen diseases and vasculitis
+Diabetes,COPD,209,1.0287081339712918,Kidney and renal pelvis cancer
+Diabetes,COPD,204,1.0637254901960784,Sequelae of cerebrovascular diseases
+Diabetes,COPD,170,0.8588235294117647,Rheumatoid arthritis and related diseases
+Diabetes,COPD,157,0.6305732484076433,Fibromyalgia
+Diabetes,COPD,155,0.8387096774193549,Regional enteritis and ulcerative colitis
+Diabetes,COPD,152,0.8947368421052632,Malabsorption and food intolerance
+Diabetes,COPD,140,1.3142857142857143,Schizophrenia
+Diabetes,COPD,139,0.9136690647482014,Epilepsy
+Diabetes,COPD,134,1.171641791044776,Parkinson disease
+Diabetes,COPD,124,1.2661290322580645,Occlusion or stenosis of precerebral arteries
+Diabetes,COPD,121,1.0661157024793388,Leukemia
+Diabetes,COPD,114,1.263157894736842,Extrapyramidal disorder
+Diabetes,COPD,113,0.6902654867256637,Breast cancer
+Diabetes,COPD,111,1.3153153153153154,Dermatitis
+Diabetes,COPD,108,0.9722222222222222,Peripheral and visceral artery aneurysms
+Diabetes,COPD,97,1.7731958762886597,Non-Hodgkin's lymphoma
+Diabetes,COPD,95,0.8421052631578947,HIV
+Diabetes,COPD,85,0.7058823529411765,Ill-defined cerebrovascular disease and others
+Diabetes,COPD,67,1.4328358208955223,Disorders of adult personality and behaviour
+Diabetes,COPD,61,1.3442622950819672,Pancreatic cancer
+Diabetes,COPD,61,1.1147540983606556,Thyroid cancer
+Diabetes,COPD,57,0.6491228070175439,Other functional disorder
+Diabetes,COPD,45,0.9555555555555556,Other substance dependece
+Diabetes,COPD,41,1.7317073170731707,Bone and soft tissue sarcomas
+Diabetes,COPD,36,1.75,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+Diabetes,COPD,36,1.1944444444444444,Melanoma
+Diabetes,COPD,33,1.0303030303030303,Ovarian cancer
+Diabetes,COPD,30,1.0,Intra-abdominal artery disease
+Diabetes,COPD,30,0.7,Liver and Bile Duct Cancer
+Diabetes,COPD,28,0.6071428571428571,Immunoproliferative neoplasm
+Diabetes,COPD,26,0.9615384615384616,Uterine cancer
+Diabetes,COPD,23,0.6956521739130435,Cervical cancer
+Diabetes,COPD,21,1.4285714285714286,Stomach cancer
+Diabetes,COPD,18,0.7777777777777778,Congenital cardiovascular anomalies
+Diabetes,COPD,14,1.0714285714285714,Testicular cancer
+Diabetes,COPD,13,2.1538461538461537,Other developmental disorder
+Diabetes,COPD,12,1.25,Intellectual disability
+Diabetes,COPD,12,0.25,Kaposi's sarcoma
+Diabetes,COPD,11,1.4545454545454546,Hodgkinâ€™s disease
+Diabetes,COPD,1,1.0,Eating disorder
