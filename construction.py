@@ -68,14 +68,14 @@ def load_data_to_neo4j(csv_file, disease_names):
                     # Process each visit
                     for visit in visits:
                         if not visit or len(visit) < 2:
-                            print(f"  ⚠️ Skipping invalid visit: {visit}")
+                            print(f"Skipping invalid visit: {visit}")
                             continue
                         
                         age_code, *diagnoses = visit
                         try:
                             age = int(age_code[1:])  # Convert "9070" to 70
                         except:
-                            print(f"  ⚠️ Invalid age code: {age_code}")
+                            print(f"Invalid age code: {age_code}")
                             continue
                         
                         print(f"  Visit at age {age}: Diagnoses {diagnoses}")
@@ -108,12 +108,12 @@ def load_data_to_neo4j(csv_file, disease_names):
                             )
                             
                             if not result.single():
-                                print(f"    ❗ Failed to create relationship for {code}")
+                                print(f"Failed to create relationship for {code}")
                             else:
-                                print(f"    ✅ Created relationship for {code}")
+                                print(f"Created relationship for {code}")
                 
                 except Exception as e:
-                    print(f"🔥 Error processing line: {str(e)}")
+                    print(f"Error processing line: {str(e)}")
                     print(f"Problematic line: {line[:100]}...")
                     continue  # Skip to next line
 
