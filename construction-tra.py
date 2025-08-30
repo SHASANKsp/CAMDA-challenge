@@ -91,7 +91,7 @@ def build_trajectory_graph(patient_csv, disease_csv):
                     from_age, from_code = diagnoses[i]
                     to_age, to_code = diagnoses[i+1]
                     time_interval = to_age - from_age
-                    
+                    time_interval= time_interval+1
                     # Store with gender stratification
                     trajectory_data[(from_code, to_code)][sex].append(time_interval)
             
