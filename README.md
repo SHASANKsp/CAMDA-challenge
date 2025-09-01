@@ -1,5 +1,5 @@
 # Temporal Knowledge Graph - Neo4j-Based Implementation for Disease Progression Analysis with applications in healthcare AI using GraphRAG 
-Full article in [Medium]()
+Full article in [Medium](https://medium.com/@shasankashekharpadhi/mapping-diabetes-trajectories-with-temporal-knowledge-graphs-graphrag-fd805dad0572)
 
 <div align="center">
 <img src="results/Diabetes_trajectory.png" width="800" height="500" />
