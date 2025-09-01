@@ -4,11 +4,11 @@ After installing **Neo4j Desktop**, follow these essential steps to set up your 
 
 ### **1. Create a New Database**
 1. Open Neo4j Desktop.
-2. Click **"New Project"** (name it, e.g., `DiabetesProgression`).
+2. Click **"New Project"**  and name it.
 3. Under your project, click **"Add Database"** → **"Local DBMS"**.
-   - Set a name (e.g., `DiabetesDB`).
-   - Choose Neo4j version (5.x recommended).
-   - Set password (remember this for Python connection).
+   - Set a name.
+   - Choose Neo4j version.
+   - Set password.
 4. Click **"Start"** to launch the database.
 
 ---
@@ -41,7 +41,7 @@ After installing **Neo4j Desktop**, follow these essential steps to set up your 
 3. Check APOC/GDS installation:
    ```cypher
    CALL apoc.help("apoc")
-   CALL gds.list()  # Only if GDS is installed
+   CALL gds.list() 
    ```
 
 ---
@@ -58,44 +58,7 @@ After installing **Neo4j Desktop**, follow these essential steps to set up your 
    driver = GraphDatabase.driver(
        "bolt://localhost:7687", 
        auth=("neo4j", "your_password")
-   driver.verify_connectivity()  # Should print no errors
+   driver.verify_connectivity() 
    driver.close()
    ```
-
 ---
-
-### **6. Import Your Data**
-1. Place your CSV files (`processed.csv`, `BPS_pathologies_gen3.csv`) in a known directory.
-2. Update paths in `construction.py`:
-   ```python
-   # Example:
-   load_data_to_neo4j('data/processed.csv', disease_names)
-   ```
-
----
-
-### **7. Run Your Python Script**
-1. Execute from terminal:
-   ```bash
-   python construction.py
-   ```
-2. Monitor progress in Neo4j Browser:
-   ```cypher
-   MATCH (n) RETURN count(n)  # Check node counts
-   ```
-
----
-
-### **Troubleshooting**
-- **Connection Refused**: Ensure the database is running (green "Stop" button in Neo4j Desktop).
-- **Auth Failures**: Verify username/password in Python matches your DB.
-- **APOC Not Working**: Double-check `neo4j.conf` settings and restart.
-
----
-
-### **Next Steps**
-- **Query Validation**: Test analytical queries from your `Cypher-queries.txt`.
-- **Performance Tuning**: Add indexes as discussed earlier.
-- **Backup**: Use Neo4j Desktop’s **"Backup"** feature regularly.
-
-Your Neo4j environment is now ready for diabetes progression analysis! Let me know if you hit any snags.
